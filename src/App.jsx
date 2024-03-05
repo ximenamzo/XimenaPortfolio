@@ -1,8 +1,11 @@
 import "./app.scss"
+import Navbar from "./components/navbar/Navbar";
 
 const App = () => {
   return <div>
-    <section><a href="">Hello</a></section>
+    <section>
+      <Navbar/>
+    </section>
     <section>Parallax</section>
     <section>Services</section>
     <section>Parallax</section>
@@ -13,4 +16,4 @@ const App = () => {
   </div>;
 };
 
-export default App;
+export default App
