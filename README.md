@@ -1,4 +1,4 @@
-# React + Vite
+# Eng. Ximena Manzo portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
+Hi! this is a little basic portfolio that I'm creating for other technicians to know.
+Also I love cooking for hobby so I'm making a little blog to share my recipes.
